@@ -59,6 +59,15 @@ examples/example_sdl2_opengl2/example_sdl2_opengl2
 examples/example_sdl2_opengl3/example_sdl2_opengl3
 examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 
-# premake directories
+# premake directories and files
 bin/
 bin-int/
+*.make
+*.makefile
+*.xcworkspace
+*.xcodeproj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.userprefs
